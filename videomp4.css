@@ -1,0 +1,13 @@
+.videomp4 {
+    position: relative;
+    width: 1500px;
+    height: 1000px;
+    margin: 0 auto;
+  }
+  
+  .videomp4 video {
+    position: absolute;
+    top: 200%;
+    left: 100%;
+    transform: translate( 100%, -50%);
+  }
